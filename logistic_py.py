@@ -10,7 +10,7 @@ import pickle
 import os
 
 # Correct file path (update this path to the location of your model)
-file_path = r"C:\Users\bcani\OneDrive\Documents\Desktop\ML_deployment\logistic_model.pkl"
+file_path = r"C:\Users\bcani\OneDrive\Documents\Desktop\ML_deployment\logistic_py.py"
 
 # Check if file exists
 if os.path.exists(file_path):
